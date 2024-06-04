@@ -4,7 +4,6 @@ minikube installation on Ubuntu. CRI as docker.
 
 **MINIKUBE ON UBUNTU 22.04 LTS**
 
-![image](https://github.com/aicloudpost/minikube-installation/assets/166476986/fcb99c67-0c64-48bc-9b24-f8a51aacce3b)
 
 Minikube is an open-source tool that facilitates the local deployment of Kubernetes clusters.
 
